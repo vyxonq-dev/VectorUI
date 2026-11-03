@@ -24,13 +24,19 @@ VectorUI is a modern and customizable UI library designed for Roblox script hubs
 - **Performance Optimized** | Designed with efficiency and responsiveness in mind.
 - **Modular Architecture** | Flexible structure for extending and maintaining components.
 
+## Community
+
+Join our Discord server to follow development, receive updates, share feedback, report issues, and connect with other VectorUI users.
+
+[**Join the VectorUI Discord Server**](discord.gg/PGy9yu2MY5)
+
 ## Preview
 
 More screenshots and UI demonstrations will be added as development progresses.
 
 ## Documentation
 
-Documentation and usage examples will be added in the future.
+Documentation, component references, and usage examples will be added in the future.
 
 ## Project Structure
 
@@ -46,7 +52,7 @@ VectorUI/
 
 ## Development Status
 
-VectorUI is currently under active development. More components, customization options, and documentation are planned.
+VectorUI is currently under active development. More components, customization options, performance improvements, and documentation are planned.
 
 ## License
 
