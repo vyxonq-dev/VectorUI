@@ -8,6 +8,8 @@ VectorUI is a modern and customizable UI library designed for Roblox script hubs
 
 ![VectorUI Preview](docs/cover.png)
 
+![VectorUI Preview 2](docs/cover2.png)
+
 ## Features
 
 - **Modern Interface** | Clean, minimalistic, and polished design.
@@ -35,7 +37,8 @@ Documentation and usage examples will be added in the future.
 ```text
 VectorUI/
 ├── docs/
-│   └── cover.png
+│   ├── cover.png
+│   └── cover2.png
 ├── src/
 ├── examples/
 └── README.md
