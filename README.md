@@ -28,7 +28,7 @@ VectorUI is a modern and customizable UI library designed for Roblox script hubs
 
 Join our Discord server to follow development, receive updates, share feedback, report issues, and connect with other VectorUI users.
 
-[**Join the VectorUI Discord Server**](discord.gg/PGy9yu2MY5)
+[**Join the VectorUI Discord Server**](https://discord.gg/SuKBGfX6ty)
 
 ## Preview
 
