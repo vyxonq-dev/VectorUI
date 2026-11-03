@@ -6,9 +6,9 @@ VectorUI is an open-source UI library for Roblox script hubs, built with customi
 
 VectorUI is a modern and customizable UI library designed for Roblox script hubs, focusing on clean aesthetics, flexibility, performance, and a smooth user experience.
 
-<!-- ![VectorUI Preview](docs/cover.png) -->
+![VectorUI Preview](docs/cover.png)
 
-![VectorUI Preview 2](docs/cover2.png)
+<!-- ![VectorUI Preview 2](docs/cover2.png) -->
 
 ## Features
 
